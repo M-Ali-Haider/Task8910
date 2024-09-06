@@ -1,6 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  basePath: "",
+  basePath: "Task8910",
+  output: "export",
   images: {
     remotePatterns: [
       {
